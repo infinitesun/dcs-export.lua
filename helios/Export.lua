@@ -1,3 +1,9 @@
+-- 1. create Scripts directory, c:\\Users\[your windows account name]\Saved Games\DCS\Scripts 
+-- 2. copy Export.lua file to Scripts directory
+-- 3. add your apple mobile device ip address to 'cduAppHost=' in Export.lua
+
+
+
 gHost = "127.0.0.1"
 gPort = 9089
 gExportInterval = 0.067
